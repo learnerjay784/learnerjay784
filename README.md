@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=learnerjay784&label=Profile%20views&color=0e75b6&style=flat" alt="learnerjay784" /> </p>
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **Python.**
 
-- 🌱 I’m currently learning **Python libraries for Data Sciene,Data Structure and Algorithms**
+- 🌱 I’m currently learning **Python libraries for Data Sciene,Data Structure and Algorithms.**
 
-- 👯 I’m looking to collaborate on **Python developer Internship**
+- 👯 I’m looking to collaborate on **Python developer Internship.**
 
-- 💬 Ask me about **Python,Numpy,Pandas,Matplotlib,Data Stucture and algorithms.s**
+- 💬 Ask me about **Python,Numpy,Pandas,Matplotlib,Data Stucture and algorithms.**
 
 - 📫 How to reach me **barodejay468@gmail.com**
 
