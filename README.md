@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=learnerjay784&label=Profile%20views&color=0e75b6&style=flat" alt="learnerjay784" /> </p>
 
-- 🔭 I’m currently working on **Python,Numpy,Pandas,SQL.**
+- 🔭 I’m currently working on **Python,Numpy,Pandas,SQL and Machine Learning.**
 
-- 🌱 I’m currently learning **Python libraries for Data Sciene,Data Structure and Algorithms,Database management system**
+- 🌱 I’m currently learning **Database management system , Machine Learning**
 
 - 👯 I’m looking to collaborate on **Python developer Internship,DataScience Internship.**
 
